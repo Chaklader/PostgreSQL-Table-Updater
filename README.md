@@ -1,11 +1,11 @@
-<!--  -DDB_USER=hans -DDB_PASSWORD=hans
-/Users/Chaklader/Documents/My Projects/DatabaseUpdater/src/test/resources/test_data.xml
--->
+Configure the IntellIJ
+----------------------
+
+i) Run-> Edit configurations .. -> (+) Application
+ii) -DDB_USER=hans -DDB_PASSWORD=hans
+iii) /Users/Chaklader/Documents/My Projects/DatabaseUpdater/src/test/resources/test_data.xml
 
 
-# backend developer test
-
-## The task
 
 There is a PostgreSQL table of persons (person), uniquely identified
 by their first name (fname), last name (lname) and date of birth
