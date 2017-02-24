@@ -3,7 +3,7 @@
 -->
 
 
-# LambdaWerk backend developer test
+# backend developer test
 
 ## The task
 
